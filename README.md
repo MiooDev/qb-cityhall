@@ -30,7 +30,8 @@ ensure qb-cityhall
 ```
 
 ## Screenshots
-![CityHall Custom UI](https://streamable.com/ur5wa9)
+[Preview] https://streamable.com/ur5wa9
+
 ![City Services](https://imgur.com/a/tGqaABi.png)
 ![Identity Page](https://imgur.com/a/xUSaxd5.png)
 ![Job Page](https://imgur.com/a/iUGccX9.png)
