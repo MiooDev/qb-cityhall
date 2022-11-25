@@ -1,5 +1,5 @@
 # qb-cityhall
-City Services for QB-Core Framework
+City Services for QB-Core Framework / UI Clearly not inspired
 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
@@ -30,11 +30,10 @@ ensure qb-cityhall
 ```
 
 ## Screenshots
-![City Services](https://i.imgur.com/l6ZRlXP.png)
-![Request Birth Certificate](https://i.imgur.com/zJRiuDI.png)
-![Request Driver License](https://i.imgur.com/2scxBew.png)
-![Request Weapon License](https://i.imgur.com/pSudfVl.png)
-![Apply For a Job](https://i.imgur.com/26Kd0FU.png)
+![CityHall Custom UI](https://streamable.com/ur5wa9)
+![City Services](https://imgur.com/a/tGqaABi)
+![Identity Page](https://imgur.com/a/xUSaxd5)
+![Job Page](https://imgur.com/a/iUGccX9)
 ![Cityhall DrawText Interaction](https://i.imgur.com/Uxh2GZC.png)
 ![Cityhall QB-Target Interaction](https://i.imgur.com/K54cMLt.png)
 ![Driving School Sending And Receiving Mail](https://i.imgur.com/iJof4jI.png)
