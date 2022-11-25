@@ -31,9 +31,9 @@ ensure qb-cityhall
 
 ## Screenshots
 ![CityHall Custom UI](https://streamable.com/ur5wa9)
-![City Services](https://i.imgur.com/b9Y9gm1.png)
-![Identity Page](https://i.imgur.com/l151cNc.png)
-![Job Page](https://i.imgur.com/NQLAPpv.png)
+![City Services](https://imgur.com/a/tGqaABi)
+![Identity Page](https://imgur.com/a/xUSaxd5)
+![Job Page](https://imgur.com/a/iUGccX9)
 ![Cityhall DrawText Interaction](https://i.imgur.com/Uxh2GZC.png)
 ![Cityhall QB-Target Interaction](https://i.imgur.com/K54cMLt.png)
 ![Driving School Sending And Receiving Mail](https://i.imgur.com/iJof4jI.png)
