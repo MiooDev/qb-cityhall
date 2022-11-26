@@ -63,7 +63,7 @@ $('.cityhall-option-block').click(function(e){
     let blockPage = $(this).data('page');
     $(".close-menu").fadeOut(100);
     $(".back-to-main").fadeIn(100);
-    $(".cityhall-option-blocks").fadeOut(100, () => {
+    $(".cityhall-option-blocks").fadeIn(100, () => {
         $(`.cityhall-${blockPage}-page`).fadeIn(100);
     });
     if (blockPage == "identity") {
